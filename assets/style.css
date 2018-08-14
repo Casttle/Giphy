@@ -1,12 +1,22 @@
 
 body {
-    background-image: url("Elegant_Background-8.jpg");
+    font-weight: 600;
+    background-image: url("greywall.png");
 }
 
 p{
+    color: white;
     margin-bottom: 5px;
 }
 
 img {
     margin-right: 15px;
+}
+.giphy-button {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+#giphyJoy,#searchBox {
+    padding-top: 15px;
+    float: left;
 }
